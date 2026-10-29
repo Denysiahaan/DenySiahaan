@@ -7,6 +7,8 @@
 * 💬 How to reach me: [denysiahaan@dutahitajaya.co.id](mailto:denysiahaan@dutahitajaya.co.id) / [denyjeremia123@gmail.com](mailto:denyjeremia123@gmail.com)
 * ⚡ Fun fact: Highly passionate about IT Infrastructure and Software Development.
 
+---
+
 ### Programming Languages & Frameworks:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,nextjs,laravel" alt="Languages and Frameworks" />
@@ -16,6 +18,26 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlserver,supabase,mysql" alt="Tools" />
 </p>
+
+---
+
+### 🎮 Play Snake With Me!
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denysiahaan/Denysiahaan/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Denysiahaan/Denysiahaan/output/github-snake.svg" alt="GitHub Snake Animation">
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Stats & Metrics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denysiahaan&show_icons=true&theme=radical&hide_border=true" alt="Denysiahaan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denysiahaan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
 
 ### Connect with me:
 <p align="left">
@@ -31,4 +53,9 @@
   <a href="mailto:denyjeremia123@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denysiahaan&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
