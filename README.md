@@ -14,10 +14,7 @@
 
 ### Tools & Applications:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=code&logoColor=white" alt="Kiro" />
-  <img src="https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlserver" alt="Tools" />
 </p>
 
 ### Connect with me:
@@ -31,7 +28,7 @@
   <a href="https://github.com/Denysiahaan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="mailto:denysiahaan123@gmail.com" target="_blank">
+  <a href="mailto:denyjeremia123@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
