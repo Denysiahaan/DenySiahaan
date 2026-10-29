@@ -7,15 +7,17 @@
 * 💬 How to reach me: [denysiahaan@dutahitajaya.co.id](mailto:denysiahaan@dutahitajaya.co.id) / [denyjeremia123@gmail.com](mailto:denyjeremia123@gmail.com)
 * ⚡ Fun fact: Highly passionate about IT Infrastructure and Software Development.
 
-### Languages and Tools:
+### Programming Languages & Frameworks:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,git,github,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,nextjs,laravel" alt="Languages and Frameworks" />
 </p>
 
-### Applications & Environments:
+### Tools & Applications:
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://img.shields.io/badge/Microsoft%2520SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Kiro-000000?style=for-the-badge&logo=code&logoColor=white" alt="Kiro" />
+  <img src="https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
 </p>
 
 ### Connect with me:
