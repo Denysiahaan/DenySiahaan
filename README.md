@@ -14,7 +14,7 @@
 
 ### Tools & Applications:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlserver" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlserver,supabase,mysql" alt="Tools" />
 </p>
 
 ### Connect with me:
