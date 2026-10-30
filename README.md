@@ -36,15 +36,15 @@
 
 <p align="left">
   <a href="https://instagram.com/djshn_" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="35" />
   </a>
   <a href="https://linkedin.com/in/denysiahaan" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" />
   </a>
   <a href="https://github.com/Denysiahaan" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" />
   </a>
   <a href="mailto:denyjeriah123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" />
   </a>
 </p>
