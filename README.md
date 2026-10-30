@@ -30,6 +30,12 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=xml" alt="XML" height="40" />
+  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
   </a>
